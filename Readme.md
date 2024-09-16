@@ -1,6 +1,6 @@
 # Личный проект «Таинственный отпуск» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
-* Студент: [Неопознанный Енот](https://up.htmlacademy.ru/animation/1).
+* Студент: [Алексей Пермяков](https://github.com/lFEIKl).
 
 ---
 
